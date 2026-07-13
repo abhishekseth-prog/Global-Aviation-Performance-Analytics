@@ -79,6 +79,7 @@ Business Insights
 - Business Model Analysis
 - Regional Revenue Analysis
 - Executive KPIs
+ ![Executive Overview](dashboard/Executive%20Overview.png)
 
 ---
 
@@ -89,6 +90,7 @@ Business Insights
 - Deliveries
 - Airbus vs Boeing Comparison
 - Fleet vs Revenue Analysis
+  ![Fleet Analysis](dashboard/Fleet%20Analysis.png)
 
 ---
 
@@ -99,6 +101,7 @@ Business Insights
 - Average Ticket Fare
 - Aviation Incident Analysis
 - Fatal Incident Analysis
+  ![Route & Safety Analysis](dashboard/Route%20%26%20Safety%20Analysis.png)
 
 ---
 
